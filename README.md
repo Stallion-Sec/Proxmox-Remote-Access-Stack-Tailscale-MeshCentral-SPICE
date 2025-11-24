@@ -88,13 +88,13 @@ On any Ubuntu VM you want reachable (e.g., MeshCentral host):
 
 Notes:
 
-After tailscale up, check the admin panel: https://login.tailscale.com/admin/machines
+After ```tailscale up```, check the admin panel: https://login.tailscale.com/admin/machines
 
 <p align="center">
   <img src="https://github.com/Stallion-Sec/Proxmox-Remote-Access-Stack-Tailscale-MeshCentral-SPICE/blob/images/image.pngtai.png" width="800">
 </p>
 
-MagicDNS (optional) can be enabled from the admin console — no paid domain required.
+MagicDNS (optional) can be enabled from the admin console, no paid domain required.
 
 ### C — MeshCentral (on a dedicated Ubuntu VM)
 
